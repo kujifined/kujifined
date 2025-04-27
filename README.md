@@ -2,7 +2,7 @@
 
 # About Me  
 
-Hello! I’m Danil, and I’m B24-DSAI Innopolis University Student.   
+B24-DSAI Innopolis University Student.   
 
 ## Skills  
 - Python  
