@@ -23,15 +23,15 @@ I'm a _Data Science and Artificial Intelligence_ student at [Innopolis Universit
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kujifined&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=kujifined&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- [Thesis Supervisor Bot](https://github.com/YOUR-LINK-HERE) — A Telegram bot for managing thesis workflows
-- [AI Assistant for Business](https://github.com/YOUR-LINK-HERE) — Web and Voice AI assistant
-- [Studium](https://github.com/YOUR-LINK-HERE) — Online platform for finding study partners
+- [Thesis Supervisor Bot](https://github.com/CAA-PdzLPn-TVrzhK/Thesis_Supervisor) — A Telegram bot with MiniApp for managing thesis workflows
+- [AI Assistant](https://github.com/somepatt/TenderHack) — Telegram Bot AI assistant
+- [Health-Checker](https://github.com/kujifined/Telegram-Bot-Health-Checker) — Telegram Bot Health Checker with notifications
 
 ---
