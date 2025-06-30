@@ -23,7 +23,7 @@ I'm a _Data Science and Artificial Intelligence_ student at [Innopolis Universit
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kujifined&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
