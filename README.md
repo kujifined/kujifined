@@ -1,10 +1,10 @@
 # kujifined
 
-I'm a Data Science and Artificial Intelligence student at Innopolis University. AI, Startup ideas, and collaborating on cool projects 🚀
+I'm a _Data Science and Artificial Intelligence_ student at [Innopolis University](https://innopolis.university/en/)
+.🚀
 
-- 🔭 Currently working on [Studium](https://github.com/YOUR-LINK-HERE) — a platform for collaborative studying
 - 🤝 Open to collaboration in AI, DS, EdTech, FinTech, and Backend Development (Fast API)
-- 🌱 Focus: ML, DS
+- 🌱 Focus: _ML, DS_
 - 📫 Reach me at: [Telegram](https://t.me/undefinedkuji) | [Email](mailto:legit.v001@gmail.com)
 
 ---
