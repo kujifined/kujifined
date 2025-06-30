@@ -1,22 +1,23 @@
 # kujifined
 
-I'm a Data Analysis and AI student at Innopolis University. AI prototypes, launching startup ideas, and collaborating on cool tech projects 🚀
+I'm a Data Science and Artificial Intelligence student at Innopolis University. AI, Startup ideas, and collaborating on cool projects 🚀
 
 - 🔭 Currently working on [Studium](https://github.com/YOUR-LINK-HERE) — a platform for collaborative studying
-- 🤝 Open to collaboration in AI, EdTech, and Backend Development
-- 🌱 Learning: FastAPI, PostgreSQL, PyTorch, LLMs, RAG
-- 📫 Reach me at: [Telegram](https://t.me/YOUR-LINK-HERE) | [Email](mailto:YOUR-EMAIL-HERE)
+- 🤝 Open to collaboration in AI, DS, EdTech, FinTech, and Backend Development (Fast API)
+- 🌱 Focus: ML, DS
+- 📫 Reach me at: [Telegram](https://t.me/undefinedkuji) | [Email](mailto:legit.v001@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-orange?style=flat&logo=huggingface&logoColor=white)
-
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ---
 
 ## 📈 GitHub Stats
