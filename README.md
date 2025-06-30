@@ -22,7 +22,7 @@ I'm a _Data Science and Artificial Intelligence_ student at [_Innopolis Universi
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
@@ -30,9 +30,6 @@ I'm a _Data Science and Artificial Intelligence_ student at [_Innopolis Universi
   <img src="https://streak-stats.demolab.com/?user=kujifined&theme=default" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kujifined&theme=flat&no-bg=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
