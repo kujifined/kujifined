@@ -22,14 +22,16 @@ I'm a _Data Science and Artificial Intelligence_ student at [_Innopolis Universi
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p align="right">
-  <img src="https://streak-stats.demolab.com/?user=kujifined&theme=default" alt="GitHub Streak" />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=default" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=kujifined&theme=default" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
