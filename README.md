@@ -27,7 +27,7 @@ I'm a _Data Science and Artificial Intelligence_ student at [_Innopolis Universi
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kujifined&theme=flat&no-frame=true&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kujifined&theme=flat&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
