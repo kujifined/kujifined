@@ -1,6 +1,6 @@
 # kujifined
 
-I'm a _Data Science and Artificial Intelligence_ student at [Innopolis University](https://innopolis.university/en/)
+I'm a _Data Science and Artificial Intelligence_ student at [_Innopolis University_](https://innopolis.university/en/)
 .🚀
 
 - 🤝 Open to collaboration in AI, DS, EdTech, FinTech, and Backend Development (Fast API)
@@ -23,7 +23,7 @@ I'm a _Data Science and Artificial Intelligence_ student at [Innopolis Universit
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
