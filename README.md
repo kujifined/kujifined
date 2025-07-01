@@ -42,3 +42,5 @@ I'm a _Data Science and Artificial Intelligence_ student at [_Innopolis Universi
 - [Health-Checker](https://github.com/kujifined/Telegram-Bot-Health-Checker) — Telegram Bot Health Checker with notifications
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=kujifined&style=for-the-badge&color=blue)
+
