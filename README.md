@@ -28,7 +28,7 @@ I'm a _Data Science and Artificial Intelligence_ student at [_Innopolis Universi
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=default" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=kujifined&theme=default" alt="GitHub Streak" />
+      <img src="https://komarev.com/ghpvc/?username=kujifined&style=flat-square&color=blue" alt="Profile Views" />
     </td>
   </tr>
 </table>
