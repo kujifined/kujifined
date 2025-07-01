@@ -28,7 +28,7 @@ I'm a _Data Science and Artificial Intelligence_ student at [_Innopolis Universi
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=default" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=kujifined&theme=flat&column=3" alt="GitHub Trophies" />
+      <img src="https://ghchart.rshah.org/kujifined" alt="GitHub Contributions Chart" />
     </td>
   </tr>
 </table>
