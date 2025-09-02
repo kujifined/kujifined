@@ -18,8 +18,9 @@ _Data Science and Artificial Intelligence_ student at [_Innopolis University_](h
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
 ![Product Management](https://img.shields.io/badge/-Product%20Management-blue?style=flat)
+![Agile](https://img.shields.io/badge/-Agile-E34F26?style=flat&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
 
 ---
 
