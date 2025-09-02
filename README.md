@@ -1,6 +1,6 @@
 # kujifined
 
-I'm a _Data Science and Artificial Intelligence_ student at [_Innopolis University_](https://innopolis.university/en/)
+_Data Science and Artificial Intelligence_ student at [_Innopolis University_](https://innopolis.university/en/)
 .🚀
 
 - 🤝 Open to collaboration in AI, DS, EdTech, FinTech, and Backend Development (Fast API)
