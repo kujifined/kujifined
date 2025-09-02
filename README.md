@@ -21,6 +21,7 @@ _Data Science and Artificial Intelligence_ student at [_Innopolis University_](h
 ![Product Management](https://img.shields.io/badge/-Product%20Management-blue?style=flat)
 ![Agile](https://img.shields.io/badge/-Agile-E34F26?style=flat&logo=git&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
 
