@@ -31,7 +31,7 @@ _Data Science and Artificial Intelligence_ student at [_Innopolis University_](h
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=default" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kujifined&layout=compact&theme=default&PAT_1=1" alt="Top Languages" />
     </td>
     <td>
       <img src="https://ghchart.rshah.org/kujifined" alt="GitHub Contributions Chart" />
