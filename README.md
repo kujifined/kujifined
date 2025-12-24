@@ -1,4 +1,4 @@
- # kujifined
+# kujifined
 
 _Data Science and Artificial Intelligence_ student at [_Innopolis University_](https://innopolis.university/en/)
 .🚀
