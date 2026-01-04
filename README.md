@@ -31,7 +31,7 @@ _Data Science and Artificial Intelligence_ student at [_Innopolis University_](h
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=kujifined&theme=default" alt="Streaks" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kujifined&theme=default" alt="Streaks" />
     </td>
     <td>
       <img src="https://ghchart.rshah.org/kujifined" alt="GitHub Contributions Chart" />
